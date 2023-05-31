@@ -1,7 +1,7 @@
 deep-learning-challenge
 Deep learning homework for the GT Data Science Bootcamp!
 
-##Report
+## Report
 
 After creating and tuning the nn model, here are my takeaways on the model's performance and the tuning process.
 
